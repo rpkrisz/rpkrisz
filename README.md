@@ -1,11 +1,45 @@
 <h1 align="left">Hi 👋, I'm Krisz</h1>
 <h3 align="left">I am passionate student from Hungary. I am currently studying computer science at ELTE and business administration and management at BGE.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rethey-prikkel-krisztian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="réthey-prikkel krisztián" height="30" width="40" /></a>
-<a href="https://www.facebook.com/krisztian.retheyprikkel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krisztián réthey-prikkel" height="30" width="40" /></a>
-</p>
+# Hi 👋, I'm Krisztián Réthey-Prikkel
 
-<h2 align="left">Skills:</h2>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rethey-prikkel-krisztian/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/krisztian.retheyprikkel)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rp.krisz123@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://rpkrisz.github.io)](https://rpkrisz.github.io)
+[![Github](https://img.shields.io/github/followers/rpkrisz?label=Follow&style=social)](https://github.com/rpkrisz)
+
+- I am passionate student from Hungary.
+- I am currently studying
+  - 💻 computer science at [ELTE](https://www.inf.elte.hu/) and
+  - 💰 business administration and management at BGE.
+- 🐻 And also volunteering at [MedveMatek](https://medvematek.hu/). Check it out if interested.
+  - Where I teach Math to children.
+  - Organising math competitions and camps.
+  - And developing projects with my friends.
+- 📫 How to reach me: rp.krisz123@gmail.com
+
+### ⚙️ Tech Stack
+
+- #### Programming Languages
+  ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-Haskell-05122A?style=flat&logo=Haskell&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=SQL&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=Javascript&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=Typescript&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C#&color=72b9ab)
+- #### Frontend Development
+  ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat&logo=React&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwind&color=72b9ab)
+- #### Backend Development
+  ![Bootstrap](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=NodeJS&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-RestAPI-05122A?style=flat&logo=RestAPI&color=72b9ab)
+  ![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&color=72b9ab)
+- #### Automation
+
+  ![Bootstrap](https://img.shields.io/badge/-Zapier-05122A?style=flat&logo=Zapier&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-IFTTT-05122A?style=flat&logo=IFTTT&color=72b9ab)
+
+- #### Other
+  ![Bootstrap](https://img.shields.io/badge/-GIT-05122A?style=flat&logo=GIT&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=GitHub&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-Vite-05122A?style=flat&logo=Vite&color=72b9ab) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=72b9ab)
+
+---
+
+<div> <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rpkrisz&show_icons=true&locale=en&layout=compact" alt="rpkrisz" /> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=rpkrisz&" alt="rpkrisz" /> </div>
+
+---
+
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+Made with Streamlit
