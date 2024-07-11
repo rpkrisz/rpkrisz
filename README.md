@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Krisz</h1>
-<h3 align="center">I am passionate student from Hungary. I am currently studying computer science at ELTE and business administration and management at BGE.</h3>
+<h1 align="left">Hi 👋, I'm Krisz</h1>
+<h3 align="left">I am passionate student from Hungary. I am currently studying computer science at ELTE and business administration and management at BGE.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/réthey-prikkel krisztián" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="réthey-prikkel krisztián" height="30" width="40" /></a>
-<a href="https://fb.com/krisztián réthey-prikkel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krisztián réthey-prikkel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rethey-prikkel-krisztian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="réthey-prikkel krisztián" height="30" width="40" /></a>
+<a href="https://www.facebook.com/krisztian.retheyprikkel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="krisztián réthey-prikkel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
