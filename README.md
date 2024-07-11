@@ -9,7 +9,7 @@
 - I am passionate student from Hungary.
 - I am currently studying
   - 💻 computer science at [ELTE](https://www.inf.elte.hu/) and
-  - 💰 business administration and management at BGE.
+  - 💰 business administration and management at [BGE](https://uni-bge.hu/hu/pszk).
 - 🐻 And also volunteering at [MedveMatek](https://medvematek.hu/). Check it out if interested.
   - Where I teach Math to children.
   - Organising math competitions and camps.
