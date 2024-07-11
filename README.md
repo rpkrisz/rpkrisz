@@ -1,6 +1,3 @@
-<h1 align="left">Hi 👋, I'm Krisz</h1>
-<h3 align="left">I am passionate student from Hungary. I am currently studying computer science at ELTE and business administration and management at BGE.</h3>
-
 # Hi 👋, I'm Krisztián Réthey-Prikkel
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rethey-prikkel-krisztian/)
