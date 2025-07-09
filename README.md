@@ -6,8 +6,8 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://rpkrisz.github.io)](https://rpkrisz.github.io)
 [![Github](https://img.shields.io/github/followers/rpkrisz?label=Follow&style=social)](https://github.com/rpkrisz)
 
-- I am passionate student from Hungary.
-- I am currently studying
+- I am passionate fresh graduet from Hungary.
+- I gradueted in
   - 💻 computer science at [ELTE](https://www.inf.elte.hu/) and
   - 💰 business administration and management at [BGE](https://uni-bge.hu/hu/pszk).
 - 🐻 And also volunteering at [MedveMatek](https://medvematek.hu/). Check it out if interested.
